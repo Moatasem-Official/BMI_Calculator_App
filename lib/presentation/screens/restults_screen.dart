@@ -48,7 +48,7 @@ class ResultsPage extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Icon(
-                      gender == 'Male'
+                      gender == 'male'
                           ? FontAwesomeIcons.mars
                           : FontAwesomeIcons.venus,
                       size: 50.0,
